@@ -1,5 +1,3 @@
-# Task-board
-
 # TaskBoard
 
 TaskBoard is a modern, interactive task management application built with **React** and **Vite**. It features a Kanban-style board with drag-and-drop functionality, allowing users to organize tasks efficiently across different stages.
